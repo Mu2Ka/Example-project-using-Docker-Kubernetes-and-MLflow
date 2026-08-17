@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.pyc
+
+mlartifacts/
+mlflow.db
+iris_model.joblib
